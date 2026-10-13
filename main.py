@@ -14,7 +14,7 @@ def banner():
   \_____|_| |_|\___/|___/\__|\_____/____|
                                           
   👻 GhostC2 — Command & Control Framework
-     by Dreadonyx | github.com/H3M4N1H
+     by H3M4N1H | github.com/H3M4N1H
      For authorized testing only.
     """)
 
