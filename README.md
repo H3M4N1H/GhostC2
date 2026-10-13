@@ -9,7 +9,7 @@ A modular Python-based Command & Control framework for CTF and authorized penetr
 ##  Installation
 
 ```bash
-git clone https://github.com/Dreadonyx/GhostC2.git
+git clone https://github.com/H3M4N1H/GhostC2.git
 cd GhostC2
 pip install -r requirements.txt
 ```
@@ -159,4 +159,4 @@ Only `colorama` — everything else is Python stdlib.
 
 ##  Author
 
-**Dreadonyx** — [github.com/Dreadonyx](https://github.com/Dreadonyx)
+**Dreadonyx** — [github.com/H3M4N1H](https://github.com/H3M4N1H)
